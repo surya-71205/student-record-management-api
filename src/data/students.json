@@ -1,0 +1,83 @@
+[
+  {
+    "id": "fc1ca27e-e9ef-49ea-8451-bcc73700ba10",
+    "name": "Sugiram S",
+    "rollNumber": "2025it1024",
+    "department": "Information Technology",
+    "year": 2,
+    "createdAt": "2026-09-29T13:18:32.800Z",
+    "updatedAt": "2026-09-29T13:18:32.800Z"
+  },
+  {
+    "id": "e4a1c6a2-9b2a-4a21-8f1a-1d2a3b4c5e01",
+    "name": "S. Karthik",
+    "rollNumber": "2022cs0014",
+    "department": "Computer Science",
+    "year": 4,
+    "createdAt": "2022-08-10T09:30:00.000Z",
+    "updatedAt": "2022-08-10T09:30:00.000Z"
+  },
+  {
+    "id": "f5b2d7b3-0c3b-4b32-9a2b-2e3b4c5d6f02",
+    "name": "K. Ananya",
+    "rollNumber": "2023ec0088",
+    "department": "Electronics & Communication",
+    "year": 3,
+    "createdAt": "2023-09-01T11:15:00.000Z",
+    "updatedAt": "2023-09-01T11:15:00.000Z"
+  },
+  {
+    "id": "a6c3e8c4-1d4c-4c43-ab3c-3f4c5d6e7a03",
+    "name": "M. Vignesh",
+    "rollNumber": "2024ai0205",
+    "department": "Artificial Intelligence",
+    "year": 2,
+    "createdAt": "2024-07-20T14:45:00.000Z",
+    "updatedAt": "2024-07-20T14:45:00.000Z"
+  },
+  {
+    "id": "b7d4f9d5-2e5d-4d54-bc4d-4a5d6e7f8b04",
+    "name": "R. Priya",
+    "rollNumber": "2025it0318",
+    "department": "Information Technology",
+    "year": 1,
+    "createdAt": "2025-10-05T08:20:00.000Z",
+    "updatedAt": "2025-10-05T08:20:00.000Z"
+  },
+  {
+    "id": "c8e5a0e6-3f6e-4e65-cd5e-5b6e7f8a9c05",
+    "name": "T. Saravanan",
+    "rollNumber": "2023me0199",
+    "department": "Mechanical Engineering",
+    "year": 3,
+    "createdAt": "2023-08-22T16:00:00.000Z",
+    "updatedAt": "2023-08-22T16:00:00.000Z"
+  },
+  {
+    "id": "d9f6b1f7-4a7f-5f76-de6f-6c7f8a9b0d06",
+    "name": "A. Kaviya",
+    "rollNumber": "2024cs0047",
+    "department": "Computer Science",
+    "year": 2,
+    "createdAt": "2024-09-12T10:00:00.000Z",
+    "updatedAt": "2024-09-12T10:00:00.000Z"
+  },
+  {
+    "id": "ea07c2a8-5b8a-6a87-ef7a-7d8a9b0c1e07",
+    "name": "P. Dinesh Kumar",
+    "rollNumber": "2022ec0125",
+    "department": "Electronics & Communication",
+    "year": 4,
+    "createdAt": "2022-07-18T13:20:00.000Z",
+    "updatedAt": "2022-07-18T13:20:00.000Z"
+  },
+  {
+    "id": "fb18d3b9-6c9b-7b98-f08b-8e9b0c1d2f08",
+    "name": "V. Abirami",
+    "rollNumber": "2025cs0142",
+    "department": "Computer Science",
+    "year": 1,
+    "createdAt": "2025-10-02T15:40:00.000Z",
+    "updatedAt": "2025-10-02T15:40:00.000Z"
+  }
+]
